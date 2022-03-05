@@ -25,6 +25,8 @@ This is a homelab for darkwind's pet projects. Exists purely for fun, learning a
 
 * [gitea](https://github.com/darklab8/darklab_gitea): self hosted git, without problems running just from NodePorts
 
+* [ingress](https://github.com/darklab8/darklab_ingress): ingress with metallb and letsencrypt to expose some of the projects above
+
 # Darklab infrastructure
 
 ![homelab_design](design/homelab_design.drawio.png)
